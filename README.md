@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JohnRodriguezM
+- 👋 Hi, I’m John J Rodriguez
 - 👀 I’m interested in web development and machine learning
-- 🌱 I’m currently learning software skills like frontend development
+- 🌱 I’m currently learning software skills such as frontend development
 - 💞️ I’m looking to collaborate on Trip-planner-landing-page
 - 📫 How to reach me: @Johnn_73 (twitter) and this is my [LinkedIn](www.linkedin.com/in/johnjrm)
 
