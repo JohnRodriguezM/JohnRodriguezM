@@ -15,6 +15,6 @@ Languages:
 
 # ---------------------
 
-Libreries and tools:
+Libraries and tools:
 
 ![Libreries and tools](https://miro.medium.com/max/1200/1*SzrSsS1stZQ7ipYObndbAw.png)
