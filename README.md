@@ -1,22 +1,47 @@
-- 👋 Hi, I’m John J Rodriguez
-- 👀 I’m interested in web development and cyber security
-- 🌱 All days I study to improve my skills in different  topics.
-- 👀 I'm currently learning about Microsoft Azure
-- 🌱 I’m web a developer. 
-- I’m looking to collaborate on [Trip-planner-landing-page](https://github.com/josancamon19/trip-planner-landing-page)
-- How to reach me: [@Johnn_73](https://twitter.com/Johnn_73?t=WbbTl-IHtUrSklakbkztMg&s=08) and this is my [LinkedIn](www.linkedin.com/in/johnjrm)
+
+# 👋 Hi, my name is John Jairo Rodriguez
+
+#### 👀 I’m interested in web development and cyber security
+#### 👻 I’m web a developer.
+#### 🌱 All days I study to improve my skills in different topics.
+#### 😎 I'm currently learning about Microsoft Azure
+#### 🤖 I’m looking to collaborate on Trip-planner-landing-page
+#### 💯 How to reach me: [@Johnn_73](https://twitter.com/Johnn_73?t=WbbTl-IHtUrSklakbkztMg&s=08) and this is my [LinkedIn](www.linkedin.com/in/johnjrm)
 
 <!---
 JohnRodriguezM/JohnRodriguezM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-Languages:
+# Tech Stack 🖐
 
-![web development](http://www.cursosgis.com/wp-content/uploads/2017/06/lenguajes_1.png)
+**Client:** 
 
-# ---------------------
+- HTML 
+- CSS 
+- CSS - preprocessors
+- JS
+- React
 
-Libraries and tools:
+**Server:** 
 
-![Libreries and tools](https://miro.medium.com/max/1200/1*SzrSsS1stZQ7ipYObndbAw.png)
+- Firebase
+
+**Others:**
+
+- GSAP
+- ScrollReveal
+- Axios
+
+![Logo](https://miro.medium.com/max/1400/0*QTVEMCkM4BKUz6to.png)
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at [johnjairorodriguez384gmail.com](https://www.google.com/intl/es-419/gmail/about/)
+
+
+## Authors
+
+- John Jairo Rodriguez Medina
+
