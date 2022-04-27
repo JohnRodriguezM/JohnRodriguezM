@@ -9,6 +9,12 @@ JohnRodriguezM/JohnRodriguezM is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-languages and tools:
+Languages:
 
 ![web development](http://www.cursosgis.com/wp-content/uploads/2017/06/lenguajes_1.png)
+
+# ---------------------
+
+
+
+![Libreries and tools](https://miro.medium.com/max/1200/1*SzrSsS1stZQ7ipYObndbAw.png)
