@@ -45,3 +45,6 @@ If you have any feedback, please reach out to us at [johnjairorodriguez384gmail.
 
 - John Jairo Rodriguez Medina
 
+ ## Commits
+ 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JohnRodriguezM&theme=monokai&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
