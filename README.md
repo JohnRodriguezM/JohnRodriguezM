@@ -17,13 +17,11 @@ You can click the Preview link to take a look at your changes.
 
 **Client:** 
 
-![image](https://user-images.githubusercontent.com/87795271/171061898-fc3391c9-e8fe-4485-892e-6abfc2d2ce4d.png)
-
-
-- CSS 
-- CSS - preprocessors
-- JS
-- React
+- ![image](https://user-images.githubusercontent.com/87795271/171061898-fc3391c9-e8fe-4485-892e-6abfc2d2ce4d.png)
+- ![image](https://user-images.githubusercontent.com/87795271/171061962-1abc0bfd-489d-4c45-8f90-03e6d9c25faf.png)
+- ![image](https://user-images.githubusercontent.com/87795271/171061991-dec616e2-f4de-4239-bd2e-3c33d7e9eef5.png)
+- ![image](https://user-images.githubusercontent.com/87795271/171062085-dab20f81-2bd8-4146-b878-0e86d03dbdf4.png)
+- ![image](https://user-images.githubusercontent.com/87795271/171062105-655cf03b-5af8-4b49-95b3-33cb49a31ad2.png)
 
 **Server:** 
 
