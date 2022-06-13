@@ -5,7 +5,8 @@
 #### 👻 I’m web a developer.
 #### 🌱 All days I study to improve my skills in different topics.
 #### 😎 I'm currently learning about Microsoft Azure
-#### 🤖 I’m looking to collaborate on Trip-planner-landing-page
+#### 🤖 I’m collaborating on Trip-planner-landing-page
+#### 💯 My organization is home
 #### 💯 How to reach me: [@Johnn_73](https://twitter.com/Johnn_73?t=WbbTl-IHtUrSklakbkztMg&s=08) and this is my [LinkedIn](www.linkedin.com/in/johnjrm)
 
 <!---
