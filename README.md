@@ -7,7 +7,7 @@
 #### 😎 I'm currently learning about Microsoft Azure
 #### 🤖 I’m collaborating on Trip-planner-landing-page
 #### 💯 My organization is home
-#### 💯 How to reach me: [@Johnn_73](https://twitter.com/Johnn_73?t=WbbTl-IHtUrSklakbkztMg&s=08) and this is my [LinkedIn](www.linkedin.com/in/johnjrm)
+#### 💯 How to reach me: [@Johnn_73](https://twitter.com/Johnn_73?t=WbbTl-IHtUrSklakbkztMg&s=08) and my [LinkedIn](www.linkedin.com/in/johnjrm)
 
 <!---
 JohnRodriguezM/JohnRodriguezM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
