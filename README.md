@@ -6,7 +6,7 @@
 #### 🌱 All days I study to improve my skills in different topics.
 #### 😎 I'm currently learning about Microsoft Azure
 #### 🤖 I’m collaborating on Trip-planner-landing-page
-#### 💯 My organization is home
+#### 💯 My organization is hausme
 #### 💯 How to reach me: [@Johnn_73](https://twitter.com/Johnn_73?t=WbbTl-IHtUrSklakbkztMg&s=08) and my [LinkedIn](www.linkedin.com/in/johnjrm)
 
 <!---
