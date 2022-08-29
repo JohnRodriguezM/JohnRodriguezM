@@ -23,13 +23,16 @@ You can click the Preview link to take a look at your changes.
 - ![image](https://user-images.githubusercontent.com/87795271/171061991-dec616e2-f4de-4239-bd2e-3c33d7e9eef5.png)
 - ![image](https://user-images.githubusercontent.com/87795271/171062085-dab20f81-2bd8-4146-b878-0e86d03dbdf4.png)
 - ![image](https://user-images.githubusercontent.com/87795271/171062105-655cf03b-5af8-4b49-95b3-33cb49a31ad2.png)
+- TypeScript
 
 **Server:** 
 
 - Firebase
+- Nodejs
 
 **Others:**
 
+- Storybook
 - GSAP
 - ScrollReveal
 - Axios
