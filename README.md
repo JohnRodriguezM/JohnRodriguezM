@@ -5,17 +5,17 @@
 
 - 🔭 I’m currently working on [Jausme](https://github.com/home-Colombia)
 
-- 🌱 I’m currently learning **Web3, backend development**
-
 - 🔭 I was working on **tripplanner.ai**
+
+- 🌱 I’m currently learning **Web3, backend development**
 
 - 👨‍💻 All of my projects are available at [soon](soon)
 
-- 💬 Ask me about **React, TypeScript**
+- 💬 Ask me about **React, TypeScript, JavaScript**
 
 - 📫 How to reach me **johnjairorodriguez84@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/johnjrm/](https://www.linkedin.com/in/johnjrm/)
+- 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/johnjrm/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
