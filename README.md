@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Jausme](https://github.com/jausme)
 
-- 🔭 I was working on **tripplanner.ai**
+- 🔭 I was working on [tripplanner.ai](https://tripplanner.ai/)
 
 - 🌱 I’m currently learning **Web3, backend development**
 
-- 👨‍💻 All of my projects are available at [soon](soon)
+- 👨‍💻 All my project will be available [soon](soon)
 
 - 💬 Ask me about **React, TypeScript, JavaScript**
 
