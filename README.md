@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnrodriguezm&label=Profile%20views&color=0e75b6&style=flat" alt="johnrodriguezm" /> </p>
 
-- 🔭 I’m currently working on [Jausme](https://github.com/home-Colombia)
+- 🔭 I’m currently working on [Jausme](https://github.com/jausme)
 
 - 🔭 I was working on **tripplanner.ai**
 
