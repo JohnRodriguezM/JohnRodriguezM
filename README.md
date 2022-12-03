@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web3, backend development**
 
-- 👨‍💻 All my project will be available [soon](soon)
+- 👨‍💻 All my project will be available [here](https://my-portfolio-opal-eta.vercel.app/)
 
 - 💬 Ask me about **React, TypeScript, JavaScript**
 
