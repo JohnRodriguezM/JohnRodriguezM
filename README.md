@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **johnjairorodriguez84@gmail.com**
 
-- 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/johnjrm/)
+- 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/john-rodriguez-dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
