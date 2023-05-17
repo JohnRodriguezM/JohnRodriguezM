@@ -7,7 +7,7 @@
 
 - 🔭 I was working on [tripplanner.ai](https://tripplanner.ai/)
 
-- 🌱 I’m currently learning **Web3, backend development**
+- 🌱 I’m currently learning **Web3, backend development, nextjs**
 
 - 👨‍💻 All my project will be available [here](https://my-portfolio-opal-eta.vercel.app/)
 
