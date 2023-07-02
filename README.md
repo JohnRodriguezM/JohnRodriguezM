@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web3, backend development, nextjs**
 
-- 👨‍💻 All my project will be available [here]([https://my-portfolio-opal-eta.vercel.app/](https://john-rodriguez-portfolio.pages.dev/)
+- 👨‍💻 All my project will be available [here](https://john-rodriguez-portfolio.pages.dev/)
 
 - 💬 Ask me about **React, TypeScript, JavaScript**
 
